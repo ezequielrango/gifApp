@@ -1,0 +1,9 @@
+dbvyC23R016JblJ5NxNWUvGxTKKxtcCX
+
+RANDOM GIFS
+
+https://api.giphy.com/v1/gifs/random?api_key=dbvyC23R016JblJ5NxNWUvGxTKKxtcCX&tag=&rating=g
+
+SEARCH GIFS 
+
+https://api.giphy.com/v1/gifs/search?api_key=dbvyC23R016JblJ5NxNWUvGxTKKxtcCX&q=&limit=25&offset=0&rating=g&lang=en
